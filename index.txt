@@ -1,3 +1,5 @@
 Hi This is first file by creating git file.
 
-update with new lines n adn check the git status.
+update with new lines n adn check the git stattus.
+
+this is updated for ignore file. 
