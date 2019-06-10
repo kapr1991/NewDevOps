@@ -1,0 +1,3 @@
+this is new file creared for branch merge confilict.
+
+This file upated in branch - feature.
