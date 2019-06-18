@@ -1,0 +1,1 @@
+This is merge confilict file. in both master and feature branch.
