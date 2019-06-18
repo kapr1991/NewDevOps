@@ -1,0 +1,3 @@
+This is ignore file from git.
+
+This is upated line to conifrm, gitignore is working fine.

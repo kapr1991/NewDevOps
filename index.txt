@@ -1,6 +1,0 @@
-Hi This is first file by creating git file.
-
-update with new lines n adn check the git stattus.
-
-
-This is line which is update for .gitignore status check.
